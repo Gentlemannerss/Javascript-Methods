@@ -62,7 +62,7 @@ pricenlnl = pricenl.replaceAll(".", ",");
 console.log(pricenlnl);
 
 /* Opdracht 6.1 ------ Bonus ------ */
-// Maak bovenstaande vraag in een regeld code:
+// Maak bovenstaande vraag in een regel code:
 
 const euroAmount = price.replace("$", "€").replace(".", ",");
 console.log(euroAmount);
